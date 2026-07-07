@@ -1,0 +1,21 @@
+# marks = [4,67,45,45,34]
+# print(len(marks))
+# print(marks[1:5])
+# print(marks[ :5])
+# print(marks.append(4))
+# print(marks.sort())
+
+list  = [2,3,4]
+print(list.append(4))
+print(list.reverse())
+print(list)
+list.sort()
+print(list)
+list.insert(0,5)
+print(list)
+list.remove(3)
+print(list)
+list.remove(2)
+print(list)
+list.pop(1)
+print(list)
